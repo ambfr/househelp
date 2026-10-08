@@ -11,6 +11,9 @@ A Python-based desktop application that connects residents with skilled workers 
 The **Home Maintenance Management System** is a desktop application developed using **Python**, **CustomTkinter**, and **SQLite**.  
 It provides a simple and efficient platform for residents to book home services and for workers to manage and complete assigned jobs.
 
+## 🎥 Project Demo
+
+[▶ Watch the Project Demo]([YOUR_SCREEN_RECORDING_LINK](https://drive.google.com/file/d/16VEkJlhQyhVCTAZs71hNwJvaa88Lvp_o/view?usp=sharing))
 
 ## 🎯 Project Objective
 
