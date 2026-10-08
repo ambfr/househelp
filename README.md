@@ -13,7 +13,7 @@ It provides a simple and efficient platform for residents to book home services 
 
 ## 🎥 Project Demo
 
-[▶ Watch the Project Demo]([YOUR_SCREEN_RECORDING_LINK](https://drive.google.com/file/d/16VEkJlhQyhVCTAZs71hNwJvaa88Lvp_o/view?usp=sharing))
+[▶ Watch the Project Demo](https://drive.google.com/file/d/16VEkJlhQyhVCTAZs71hNwJvaa88Lvp_o/view?usp=sharing)
 
 ## 🎯 Project Objective
 
